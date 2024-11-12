@@ -6,8 +6,8 @@ Implementation of Pseudorandom Number Generation Using Standard library
 
 # PROGRAM
 ```
-NAME: Senthil kumaran C
-REG NO: 212223220103
+NAME: ELAMUKILAN G
+REG NO: 212223040045
 
 #include <stdio.h>
 #include <stdlib.h>
