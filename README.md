@@ -59,5 +59,3 @@ int main()
 
 # RESULT
    Thus the Implementation of Pseudorandom Number Generation Using Standard library was executed successfully.
-
-
