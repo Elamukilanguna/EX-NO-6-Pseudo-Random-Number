@@ -4,29 +4,10 @@
 
 Implementation of Pseudorandom Number Generation Using Standard library
 
-# ALGORITHM
-# Step 1:
-Declare the necessary variables for storing the count of random numbers, minimum and maximum values, and the generated random number.
-
-# Step 2:
-Prompt the user for the number of random numbers to be generated (count), and ensure the input is a valid positive integer.
-
-# Step 3:
-Prompt the user to input the minimum (min) and maximum (max) values for the range. Validate that the maximum value is greater than the minimum.
-
-# Step 4:
-Use the srand(time(NULL)) function to seed the random number generator based on the current time.
-
-# Step 5:
-For the specified count, generate random numbers using the formula:
-
-random_number=(rand()%(max−min+1))+min
-
-Print each generated random number.
 # PROGRAM
 ```
-NAME: NIKSHITHA G
-REG NO: 212223110031
+NAME: Senthil kumaran C
+REG NO: 212223220103
 
 #include <stdio.h>
 #include <stdlib.h>
@@ -54,7 +35,8 @@ int main()
 ```
 
 # OUTPUT
-![alt text](<Screenshot (29).png>)
+
+![Screenshot (29)](https://github.com/user-attachments/assets/257d14f8-901f-4ea9-bb34-2ead0b4c52f8)
 
 
 # RESULT
